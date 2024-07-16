@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "321645913029",
+    "firebase_url": "https://test-dccc8-default-rtdb.firebaseio.com",
+    "project_id": "test-dccc8",
+    "storage_bucket": "test-dccc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321645913029:android:e79e0231b4c44cd935a1ac",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS5_SVkReumONmj83PLbuqd1Bhwgyo6Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
